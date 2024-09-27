@@ -61,7 +61,8 @@
     background-color: #3882F6;
     color: white;
     border-radius: 4px;
-    border: none;
+    border:#3882F6 2px solid;
+    font-size: 18px;
     padding: 4px 20px;
     font-weight: 600;
 }
@@ -123,4 +124,8 @@
     border-radius: 8px;
     display: flex;
     justify-content: space-evenly;
+}
+
+.call-to-action-container .button.signup {
+    border-color: white;
 }
