@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.header-container {
+    display: flex;
+    background-color: #1F2937;
+    font-family: 'Roboto', monospace;
+}
