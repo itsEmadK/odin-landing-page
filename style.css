@@ -79,3 +79,11 @@
     border: #3882F6 solid 2px;
     border-radius: 12px;
 }
+
+.product-item-subtext {
+    width: 200px;
+    font-size: 18px;
+    color: rgb(108, 106, 106);
+    text-align: center;
+    margin-top: 8px;
+}
