@@ -5,6 +5,17 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body {
+    display: flex;
+    min-height: 100vh;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.body {
+    flex: 1;
+}
+
 .header-hero-container {
     background-color: #1F2937;
     padding: 16px 150px 128px;
