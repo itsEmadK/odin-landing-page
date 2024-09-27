@@ -57,7 +57,7 @@
     height: 300px;
 }
 
-.button.signup{
+.button.signup {
     background-color: #3882F6;
     color: white;
     border-radius: 4px;
@@ -95,4 +95,15 @@
     color: rgb(108, 106, 106);
     text-align: center;
     margin-top: 8px;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.quotee-text {
+    font-weight: 700;
+    font-size: 24px;
 }
