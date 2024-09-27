@@ -8,6 +8,7 @@
 .header-hero-container {
     background-color: #1F2937;
     padding: 16px 150px 128px;
+    margin-bottom: 32px;
 }
 
 .header-container {
@@ -63,4 +64,11 @@
     border: none;
     padding: 4px 20px;
     font-weight: 600;
+}
+
+.information-header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
 }
