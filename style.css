@@ -5,10 +5,13 @@
     font-family: 'Roboto', sans-serif;
 }
 
-.header-container {
-    display: flex;
+.header-hero-container {
     background-color: #1F2937;
     padding: 16px 150px;
+}
+
+.header-container {
+    display: flex;
     align-items: center;
     gap: 32px;
 }
