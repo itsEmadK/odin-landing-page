@@ -8,7 +8,8 @@
     display: flex;
     background-color: #1F2937;
     font-family: 'Roboto', monospace;
-    padding: 16px 120px;
+    padding: 16px 150px;
+    gap: 32px;
 }
 
 .header-logo {
@@ -20,4 +21,8 @@
 .header-link {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.header-link.link-one {
+    margin-left: auto;
 }
