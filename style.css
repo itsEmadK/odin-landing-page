@@ -129,3 +129,14 @@
 .call-to-action-container .button.signup {
     border-color: white;
 }
+
+.call-to-action-text.header {
+    font-weight: 700;
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.call-to-action-text.subtext {
+    font-size: 18px;
+    color:#E5E7EB;
+}
