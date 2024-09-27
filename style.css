@@ -7,7 +7,7 @@
 
 .header-hero-container {
     background-color: #1F2937;
-    padding: 16px 150px;
+    padding: 16px 150px 128px;
 }
 
 .header-container {
@@ -35,7 +35,7 @@
 .hero-container {
     display: flex;
     gap: 32px;
-    background-color: #1F2937;
+    align-items: center;
 }
 
 .hero-main-text {
