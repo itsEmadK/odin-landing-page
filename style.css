@@ -34,6 +34,7 @@
 
 .hero-container {
     display: flex;
+    gap: 32px;
     background-color: #1F2937;
 }
 
@@ -49,6 +50,6 @@
 }
 
 .hero-image {
-    width: 500px;
-    height: 250px;
+    width: 600px;
+    height: 300px;
 }
