@@ -27,3 +27,8 @@
 .header-link.link-one {
     margin-left: auto;
 }
+
+.hero-container {
+    display: flex;
+    background-color: #1F2937;
+}
