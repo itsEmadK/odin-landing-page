@@ -7,7 +7,7 @@
 .header-container {
     display: flex;
     background-color: #1F2937;
-    font-family: 'Roboto', monospace;
+    font-family: 'Roboto', sans-serif;
     padding: 16px 150px;
     align-items: center;
     gap: 32px;
