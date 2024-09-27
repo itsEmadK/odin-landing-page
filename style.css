@@ -7,8 +7,7 @@
 
 body {
     display: flex;
-    min-height: 100vh;
-    height: 100vh;
+    min-height: 100vh; /*This is needed so the page takes up all of the view ports space and therefore footer can stick to the bottom*/
     flex-direction: column;
 }
 
