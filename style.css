@@ -97,6 +97,11 @@
     margin-top: 8px;
 }
 
+.quote-container {
+    padding: 128px 256px;
+    background-color: #E5E7EB;
+}
+
 .quote-text {
     font-size: 36px;
     color: #1F2937;
@@ -106,4 +111,5 @@
 .quotee-text {
     font-weight: 700;
     font-size: 24px;
+    text-align: end;
 }
