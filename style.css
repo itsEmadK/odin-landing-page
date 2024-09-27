@@ -78,6 +78,7 @@
     gap: 48px;
     flex-wrap: wrap;
     justify-content: center;
+    padding-bottom: 128px;
 }
 
 .product-item-image {
